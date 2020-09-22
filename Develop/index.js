@@ -20,13 +20,28 @@ const questions = [
         {
             type: "input",
             name: "email",
-            message: "what is up?"
+            message: "Please enter your email"
         },
         {
             type: "input",
             name: "install",
-            message: "command to install depn",
+            message: "command to install dependencies",
             default: "npm i"
+        },
+        {
+            type: "input",
+            name: "username",
+            message: "Please enter your GitHub username",
+        },
+        {
+            type: "input",
+            name: "contributors",
+            message: "Please enter contributor guidelines for the project",
+        },
+        {
+            type: "input",
+            name: "tests",
+            message: " Please enter the tests that were performed for this project",
         },
 
 ];
