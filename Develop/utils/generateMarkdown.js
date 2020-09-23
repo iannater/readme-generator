@@ -9,7 +9,7 @@ function generateMarkdown(data) {
   ${data.description} 
 
   ## Table of Contents
-  #-description
+  [here](#tests)
   #-installation
   [Markdown - link] (#usage)
 
