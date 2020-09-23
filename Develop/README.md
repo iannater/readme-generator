@@ -1,12 +1,12 @@
 
-  # Jennys project
+  # Legit Test for Readme
 
 
   ## Description 
-  aljskfjslakdfjasdhflkajsdlfjasdljfasidghlaks fksd afkjs akjfksjad lfjsadjfsa 
+  I am running a legit test to get a final idea of what my readme will look like 
 
   ## Table of Contents
-  #-description
+  [here](#tests)
   #-installation
   [Markdown - link] (#usage)
 
@@ -21,13 +21,13 @@
   5. Feel free to then move the read me file into your personal folder from there. 
 
   ## License
-  MIT [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
   ## Contributor Guidelines
-  dont
+  You are welcome to help with this please just make it better lol
 
   ## Tests 
-  do yo tests
+  Um
 
   #Questions
    If you have any questions please contact me via email at ian.nater@gmail.com, you can also follow me on GitHub github.com/inater
