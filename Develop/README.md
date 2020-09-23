@@ -1,14 +1,18 @@
 
-  # Legit Test for Readme
+  # Hulas Fun Readme
 
 
   ## Description 
-  I am running a legit test to get a final idea of what my readme will look like 
+  THis is a readme page for my dod cause she loves reading readmes and barking at squirrles  
 
   ## Table of Contents
+  [here](#description)
+  [here](#installation)
+  [here](#usage)
+  [here](#license)
+  [here](#Contributor Guidelines)
   [here](#tests)
-  #-installation
-  [Markdown - link] (#usage)
+  [here](#questions)
 
   ## Installation
   npm i
@@ -24,10 +28,10 @@
   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
   ## Contributor Guidelines
-  You are welcome to help with this please just make it better lol
+  Honestly I am debating right now if I spelled squirrle right up there. Doesnt feel right. Maybe you can help me with that?
 
   ## Tests 
-  Um
+  Def google that ish ^
 
   #Questions
    If you have any questions please contact me via email at ian.nater@gmail.com, you can also follow me on GitHub github.com/inater
