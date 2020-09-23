@@ -9,6 +9,9 @@ function generateMarkdown(data) {
   ${data.description} 
 
   ## Table of Contents
+  #-description
+  #-installation
+  [Markdown - link] (#usage)
 
   ## Installation
   ${data.install}
@@ -30,7 +33,7 @@ function generateMarkdown(data) {
   ${data.tests}
 
   #Questions
-   If you have any questions please contact me via email at ${data.email}, you can also follow me on GitHub. My username is ${data.username}.
+   If you have any questions please contact me via email at ${data.email}, you can also follow me on GitHub github.com/${data.username}
 
 `;
 }
