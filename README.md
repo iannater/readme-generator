@@ -1,8 +1,8 @@
 
-  # Demo For Video
+  # Ian's README Generator
 
   ## Description [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-  I am not gonna lie I have had to re-record this video like 5 times because something keeps messing up 
+  For this project we made a readme generator through Node.js. I actually used the app to make the README that you are currently looking at. You can see that it has multiple sections that I filled out using node prompts. It also contains a table of contents that you can click on to go to different sections. 
 
   ## Table of Contents
   [Description](#description)<br>
@@ -27,11 +27,11 @@
   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
   ## Contributor Guidelines
-  You could contribute by giving me an A at this point
+  This is a private project for my UT Bootcamp class and I am tweaking it over time. Since it will be used in my portfolio I don't want any contributions.
 
   ## Tests 
-  This is a live test
+  Since no one will be editing this there arent any test guidelines. I am just learning about testing so I am not 100% sure what to put in this section yet. 
 
   ## Questions
-   If you have any questions please contact me via email at ian.nater@gmail.com, you can also follow me on GitHub github.com/inater
+   If you have any questions please contact me via email at ian.nater@gmail.com, you can also follow me on GitHub github.com/iannater
 
