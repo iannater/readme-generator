@@ -4,8 +4,7 @@ function generateMarkdown(data) {
   return `
   # ${data.title}
 
-
-  ## Description 
+  ## Description ${data.license}
   ${data.description} 
 
   ## Table of Contents
@@ -13,9 +12,9 @@ function generateMarkdown(data) {
   [Installation Instructions](#installation)<br>
   [Usage](#usage)<br>
   [Licenses](#license)<br>
-  [Contributor Guidelines](#Contributor Guidelines)<br>
+  [Contributor Guidelines](#contributor-guidelines)<br>
   [Tests](#tests)<br>
-  [Questions?](#questions)<br>
+  [Questions](#questions)<br>
 
   ## Installation
   ${data.install}
@@ -36,7 +35,7 @@ function generateMarkdown(data) {
   ## Tests 
   ${data.tests}
 
-  #Questions
+  ## Questions
    If you have any questions please contact me via email at ${data.email}, you can also follow me on GitHub github.com/${data.username}
 
 `;
